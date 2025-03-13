@@ -1,6 +1,7 @@
 # What is in this repo ?
 
 This repo contains a Jupyter notebook that can be used to adapt and prepare Markdown files from Confluence to Outline.
+
 Notebook : <a href="https://colab.research.google.com/github/preste-ai/Confluence2Outline/blob/main/Confluence2Outline_pub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 
 # How-to
